@@ -6,7 +6,7 @@ The support desk's kb export, with one page added about what ticket #4471 held.
 
 - **Source (.svx):** [`src/routes/kb/incidents/4471-split/+page.svx`](src/routes/kb/incidents/4471-split/+page.svx)
 - **As the desk sees it (rendered):** [`rendered/kb-incidents-4471-split.html`](rendered/kb-incidents-4471-split.html) · screenshot below
-- Signed `Konkord360` · desk ref **DR-5JQ3-MXK2**
+- Signed with the course ticket · desk ref **DR-AMMT-9X9H**
 
 ![The page as the desk sees it](rendered/kb-incidents-4471-split.png)
 

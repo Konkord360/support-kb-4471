@@ -4,7 +4,7 @@ title: '#4471 · what it held: three problems, not one'
 owner: Konkord360
 status: closed
 reviewed: 2026-10-28
-signature: Konkord360
+signature: v1.eyJzdWIiOiIzMzU2IiwiYXVkIjoiY2hhbGxlbmdlOndoYXQtaXQtc2hvd3MiLCJpYXQiOjE3OTMyMDQ5NzksImV4cCI6MTc5MzI5MTM3OX0.A4mFXlFz9Rx-RgzmrJpOnQ9pn5NFvMn1_jz-0tkltUE
 ---
 
 <script>
